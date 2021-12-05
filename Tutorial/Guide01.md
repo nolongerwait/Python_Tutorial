@@ -37,7 +37,7 @@ python3 --version
 ```
 来验证Python是否正确安装。正确安装后，会提示
 ```
-Python 3.8.1
+Python 3.9.9
 ```
 
 ## 第一个Python程序
